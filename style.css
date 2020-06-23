@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Satisfy&display=swap');
+
+html {
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    border-width: 20px;
+    border-style: solid;
+    border-color: #fcd2d8;
+    text-align: center;
+}
+
+.header {
+    font-size:4rem;
+    margin-top: 50px;
+    font-weight: normal;
+    font-family: 'Satisfy', cursive;
+}
+
+.msg {
+    font-size: 2rem;
+    color: #f12469;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.button {
+    border-radius: 30px;
+    height: 2.2rem;
+    background-color: #f12469;
+    width: 335px;
+    font-size: 1.2rem;
+    color: #ffffff;
+    margin: 0 auto;
+    padding-top: 15px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: #f12469;
+    background-color: #fcd2d8;
+    
+}
